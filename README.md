@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stella-raab" target="blank"><img align="center" src=" https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="stella-raab" height="25" /></a>
+<a href="https://linkedin.com/in/stella-raab" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn logo" title="LinkedIN" height="25" /></<a>
 <a href="https://instagram.com/howlongisnever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="howlongisnever" height="24" width="24" /></a>
 <a href="https://dribbble.com/stellaraab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="stellaraab" height="24" width="24" /></a>
 </p>
