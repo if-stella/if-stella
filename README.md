@@ -9,10 +9,16 @@
 
 - 📫 How to reach me **hallo@stellaraab.de**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on...</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stella-raab" target="blank">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn logo" title="LinkedIN" height="25" /></<a>
+<a href="https://www.instagram.com/howlongisnever" target="blank">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram logo" title="Instagram" height="25" /></<a>
+<a href="https://www.instagram.com/howlongisnever" target="blank">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram logo" title="Instagram" height="25" /></<a>
+<a href="https://dribbble.com/stellaraab/" target="blank">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Dribbble&color=EA4C89&logo=Dribbble&logoColor=FFFFFF&label=" alt="Dribbble logo" title="Dribbble" height="25" /></<a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
