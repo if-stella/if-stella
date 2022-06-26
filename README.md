@@ -13,8 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/stella-raab" target="blank">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn logo" title="LinkedIN" height="25" /></<a>
-<a href="https://instagram.com/howlongisnever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="howlongisnever" height="24" width="24" /></a>
-<a href="https://dribbble.com/stellaraab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="stellaraab" height="24" width="24" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
