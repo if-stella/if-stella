@@ -6,8 +6,6 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn logo" title="LinkedIN" height="25" /></<a>
 <a href="https://www.instagram.com/howlongisnever" target="blank">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram logo" title="Instagram" height="25" /></<a>
-<a href="https://dribbble.com/stellaraab/" target="blank">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Dribbble&color=EA4C89&logo=Dribbble&logoColor=FFFFFF&label=" alt="Dribbble logo" title="Dribbble" height="25" /></<a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +23,4 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual+Studio+Code&logoColor=white" alt="Tailwind logo" title="Tailwind" height="25" />
  </p>
  
-
-![Stella's GitHub stats](https://github-readme-stats.vercel.app/api?username=if-stella&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if-stella&layout=compact&theme=tokyonight)](https://github.com/if-stella/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if-stella&layout=compact&theme=tokyonight&border_radius=0px)](https://github.com/if-stella/github-readme-stats)
