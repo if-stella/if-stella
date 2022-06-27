@@ -23,4 +23,4 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual+Studio+Code&logoColor=white" alt="Tailwind logo" title="Tailwind" height="25" />
  </p>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if-stella&layout=compact&theme=tokyonight&border_radius=0px&hide_border=true)](https://github.com/if-stella/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if-stella&layout=compact&theme=nord&border_radius=0px&hide_border=true)](https://github.com/if-stella/github-readme-stats)
