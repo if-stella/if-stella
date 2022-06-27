@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby logo" title="Ruby" height="25" />
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails logo" title="Rails" height="25" />
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sketch&color=222222&logo=Sketch&logoColor=F7B500" alt="Sketch logo" title="Sketch" height="25" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sketch&color=222222&logo=Sketch&logoColor=F7B500&label=" alt="Sketch logo" title="Sketch" height="25" />
  </p>
  
 
