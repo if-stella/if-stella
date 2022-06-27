@@ -30,7 +30,7 @@
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React logo" title="React" height="25" />
  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails logo" title="Rails" height="25" />
  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" alt="Sketch" title="Sketch" height="25" />
- <img src="https://img.shields.io/badge/Tailwind+CSS-06B6D4?style=for-the-badge&logo=Tailwind+CSS&logoColor=white" alt="Tailwind logo" title="Tailwind" height="25" />
+ <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind&logoColor=white" alt="Tailwind logo" title="Tailwind" height="25" />
  </p>
  
 
