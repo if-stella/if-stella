@@ -1,14 +1,5 @@
 <h1 align="left">Hi 👋, I'm Stella</h1>
 <h3 align="left">UI-designer & aspiring frontend developer from Berlin</h3>
-
-- 🔭 I’m currently working on **some personal projects.**
-
-- 🌱 I’m currently learning **react**
-
-- 💬 Ask me about **figma and design input**
-
-- 📫 How to reach me **hallo@stellaraab.de**
-
 <h3 align="left">Find me on...</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stella-raab" target="blank">
