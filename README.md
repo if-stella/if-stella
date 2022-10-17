@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if-stella)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if-stella&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
  <img src="https://img.shields.io/badge/Adobe Creative Cloud-DA1F26?style=for-the-badge&logo=Adobe+Creative+Cloud&logoColor=white" alt="Adobe Creative Cloud logo" title="Adobe Creative Cloud" height="25" />
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />
