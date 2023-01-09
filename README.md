@@ -25,3 +25,5 @@
  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind+CSS&logoColor=white" alt="Tailwind logo" title="Tailwind" height="25" />
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual+Studio+Code&logoColor=white" alt="Tailwind logo" title="Tailwind" height="25" />
  </p>
+ 
+ ![Stella's GitHub stats](https://github-readme-stats.vercel.app/api?username=if-stella&show_icons=true&theme=tokyonight)
