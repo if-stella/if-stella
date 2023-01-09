@@ -27,3 +27,4 @@
  </p>
  
  ![Stella's GitHub stats](https://github-readme-stats.vercel.app/api?username=if-stella&show_icons=true&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if-stella)](https://github.com/if-stella/github-readme-stats)
