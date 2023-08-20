@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Stella</h1>
-<h3 align="left">UI-designer & aspiring frontend developer from Berlin</h3>
+<h3 align="left">UI-designer & frontend developer from Berlin</h3>
 <h3 align="left">Find me on...</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stella-raab" target="blank">
